@@ -1,3 +1,22 @@
+/*----------------------------------------------------------
+ *                 HTL-Leonding / Klasse: 1xHITM
+ * ----------------------------------------------------------
+ * Übungsnr.:   --
+ * Übungstitel: Ungerade Zahlen
+ * Autoren:     Ecker Quirin
+ * Version:     1.0
+ * Datum:       18.11.2017
+ * ----------------------------------------------------------
+ * Kurzbeschreibung:
+ * Ausgeben der Underaden Zahlen und deren Summen.
+ *
+ * ----------------------------------------------------------
+ * Beschreibung der grundlegenden Lösungsidee:
+ * Ausgen der Ungeraden Zahlen mit einer Schleife.
+ *
+ * ----------------------------------------------------------
+*/
+
 import java.util.Scanner;
 
 public class Ecker_UngeradeZahlen {
